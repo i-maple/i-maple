@@ -8,8 +8,7 @@
 
 <h3 align="center">I am interested in developing multi-platform apps with Flutter</h3>
 
-Here are some ideas to get you started:
-
+<br/>
 - 🔭 I’m currently working on Flutter, Node.js, React, Javascript and Kotlin.
 - 🌱 I’m currently learning Web Security.
 - 💬 Ask me about Developing Android and iOS apps with clean architecture using flutter.
