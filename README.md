@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
 <h1 align="center">Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Nishant Pokhrel.</h1>
 <h3 align="center">I won't mind if you call me Maple.</h3>
