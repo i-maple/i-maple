@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <a href="https://www.dartlang.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000dart.png"/> </a>
-    <a href="https://www.flutter.dev" target="_blank"> <img src="https://img.icons8.com/color/48/000000flutter.png"/> </a>
+    <a href="https://www.dartlang.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a>
+    <a href="https://www.flutter.dev" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a href="https://www.mysql.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a>
