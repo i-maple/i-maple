@@ -30,7 +30,6 @@ Here are some ideas to get you started:
     <a href="https://www.mongodb.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a>
     <a href="https://git-scm.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://nodejs.org/" target="_blank"> <img width="45px" src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-    <a href="https://reactjs.org//" target="_blank"> <img width="48px" src="https://img.icons8.com/color/48/000000/react.png"/> </a>
     <a href="https://getbootstrap.com/" target="_blank"> <img width="48px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
 </p>
 
