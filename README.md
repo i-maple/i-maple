@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on Flutter, Node.js, React, Javascript and Kotlin. <br/>
 - 🌱 I’m currently learning Web Security.<br/>
 - 💬 Ask me about Developing Android and iOS apps with clean architecture using flutter.<br/>
-- 📫 How to reach me: <a href = "https://www.linkedin.com/in/nishant-pokhrel-572911217/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a><br/>
+- 📫 How to reach me:<br/> <a href = "https://www.linkedin.com/in/nishant-pokhrel-572911217/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a><br/>
 <a href = "https://twitter.com/rawn_yeast"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a><br/>
 <a href = "https://www.instagram.com/n1shantxx"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a><br/>
 - 😄 Pronouns: Maple<br/>
