@@ -13,7 +13,6 @@
 - 📫 How to reach me:<br/> <a href = "https://www.linkedin.com/in/nishant-pokhrel-572911217/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a><br/>
 <a href = "https://twitter.com/rawn_yeast"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a><br/>
 <a href = "https://www.instagram.com/n1shantxx"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a><br/>
-- 😄 Pronouns: Maple<br/>
 
 <h1 align="center">🚀 Tools I am using Right Now</h1>
 
