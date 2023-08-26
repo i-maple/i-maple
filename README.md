@@ -7,12 +7,13 @@
 <h3 align="center">I am interested in developing multi-platform apps with Flutter</h3>
 
 <br/>
-- 🔭 I’m currently working on Flutter, Node.js, React, Javascript and Kotlin. <br/>
+- 🔭 I’m currently working on <a href="https://github.com/deutschvocab">Deutschpeak</a>. <br/>
 - 🌱 I’m currently exploring AI/ML.<br/>
-- 💬 Ask me about Developing Android and iOS apps with clean architecture using flutter.<br/>
-- 📫 How to reach me:<br/> <a href = "https://www.linkedin.com/in/nishant-pokhrel-572911217/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a><br/>
-<a href = "https://twitter.com/nishantfdev"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a><br/>
-<a href = "https://www.instagram.com/n1shantxx"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a><br/>
+- 💬 Ask me about Developing Hybrid apps with clean architecture.<br/>
+- 💬 I can contribute to developing secure backend applications with Django/Node.js<br/>
+- 📫 How to reach me:<br/> <a href = "https://www.linkedin.com/in/nishant-pokhrel-572911217/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/nishantfdev"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/n1shantxx"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 <h1 align="center">🚀 Tools I am using Right Now</h1>
 
