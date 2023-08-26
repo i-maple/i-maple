@@ -7,7 +7,7 @@
 <h3 align="center">I am interested in developing multi-platform apps with Flutter</h3>
 
 <br/>
-- 🔭 I’m currently working on <a href="https://github.com/deutschvocab">Deutschpeak</a>. <br/>
+- 🔭 I’m currently working on <a href="https://github.com/i-maple/deutschvocab">Deutschpeak</a>. <br/>
 - 🌱 I’m currently exploring AI/ML.<br/>
 - 💬 Ask me about Developing Hybrid apps with clean architecture.<br/>
 - 💬 I can contribute to developing secure backend applications with Django/Node.js<br/>
