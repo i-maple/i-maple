@@ -1,33 +1,42 @@
+# Hi there, I'm i-maple! 👋
 
-<h1 align="center">Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Nishant Pokhrel.</h1>
-<h3 align="center">I won't mind if you call me Maple.</h3>
+Welcome to my GitHub profile! I'm a passionate developer constantly exploring new technologies and working on exciting projects. Here's a little about me:
 
-<br/>
+## About Me
 
-<h3 align="center">I am interested in developing multi-platform apps with Flutter</h3>
+- 🌱 I’m currently learning and improving my skills in **full-stack development**.
+- 🔭 I’m working on various open-source projects and contributing to the developer community.
+- 💬 Ask me about **JavaScript**, **Python**, **React**, **Node.js**, and **Machine Learning**.
+- 📫 How to reach me: [My Email](mailto:nishantyt0@gmail.com)
+- ⚡ Fun fact: I love maple syrup and enjoy hiking in my free time.
 
-<br/>
-- 🔭 I’m currently working on <a href="https://github.com/i-maple/deutschvocab">Deutschpeak</a>. <br/>
-- 🌱 I’m currently exploring AI/ML.<br/>
-- 💬 Ask me about Developing Hybrid apps with clean architecture.<br/>
-- 💬 I can contribute to developing secure backend applications with Django/Node.js<br/>
-- 📫 How to reach me:<br/> <a href = "https://www.linkedin.com/in/nishant-pokhrel-572911217/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/nishantfdev"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/n1shantxx"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+## My Skills
 
-<h1 align="center">🚀 Tools I am using Right Now</h1>
+### Languages
+- JavaScript
+- Python
+- TypeScript
+- HTML & CSS
 
-<p align="center">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <a href="https://www.dartlang.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a>
-    <a href="https://www.flutter.dev" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-    <a href="https://www.mysql.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a>
-    <a href="https://git-scm.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a href="https://nodejs.org/" target="_blank"> <img width="45px" src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-    <a href="https://getbootstrap.com/" target="_blank"> <img width="48px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
-</p>
+### Frameworks and Libraries
+- React
+- Node.js
+- Express
+- Django
 
-<br/>
+### Tools and Platforms
+- Git & GitHub
+- Docker
+- AWS
+- VS Code
+
+## GitHub Stats
+
+![i-maple's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-maple&show_icons=true&theme=radical)
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/i-maple/)
+- [Twitter](https://twitter.com/i_maple)
+
+Thanks for visiting my profile! 😊
