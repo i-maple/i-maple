@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer constantly exploring ne
 
 - 🌱 I’m currently learning and improving my skills in **full-stack development**.
 - 🔭 I’m working on various open-source projects and contributing to the developer community.
-- 💬 Ask me about **JavaScript**, **Python**, **React**, **Node.js**, and **Machine Learning**.
+- 💬 Ask me about **Dart**, **Flutter**, **Firebase**, **Telemedicine Apps**, and **Node.js**.
 - 📫 How to reach me: [My Email](mailto:nishantyt0@gmail.com)
 - ⚡ Fun fact: I love maple syrup and enjoy hiking in my free time.
 
